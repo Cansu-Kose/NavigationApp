@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonType">
+        <item name="android:backgroundTint">#5838A1</item>f
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="cornerRadius">5dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_width">120dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextType">
+        <item name="android:backgroundTint">#5838A1</item>
+        <item name="android:fontFamily">@font/roboto_bold</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#5838A1</item>
+    </style>
+
+</resources>
